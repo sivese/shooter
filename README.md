@@ -10,4 +10,4 @@ Environment
 * Libraries  
   * JAVA Swing  
 
-![DEMO](demo.gif)
+![DEMO](./demo.gif)
